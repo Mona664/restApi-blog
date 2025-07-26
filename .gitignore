@@ -1,0 +1,12 @@
+# تجاهل مجلدات الباكجات
+node_modules/
+venv/
+__pycache__/
+
+# تجاهل ملفات الصور
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.webp
